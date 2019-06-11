@@ -7,3 +7,7 @@ This script will also check the machine settings for proxy servers and at the en
 The tests for custom domains is always performed against autodiscover.<domain.com>
 
 Created by Ricardo Pacheco (ricardo.pacheco@microsoft.com) - This script is provided as is and it is not guaranteed to work 100% of the time. Please review all the code before running it to avoid any code execution that you are note confortable. 
+
+
+Issues Found
+![Issue 1](https://raw.githubusercontent.com/mektospacheco/ONT/master/Images/image.png)
