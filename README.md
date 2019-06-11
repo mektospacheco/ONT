@@ -8,7 +8,10 @@ The tests for custom domains is always performed against autodiscover.<domain.co
 
 Created by Ricardo Pacheco (ricardo.pacheco@microsoft.com) - This script is provided as is and it is not guaranteed to work 100% of the time. Please review all the code before running it to avoid any code execution that you are note confortable. 
 
+The script can be easily accessed / run by running the following powershell cmdlets:
 
+$ONTScript = Invoke-WebRequest https://aka.ms/ONT
+Invoke-Expression $($ONTScript.Content)
 
 
                                                           Issues Found
