@@ -11,6 +11,7 @@ Created by Ricardo Pacheco (ricardo.pacheco@microsoft.com) - This script is prov
 The script can be easily accessed / run by running the following powershell cmdlets:
 
 $ONTScript = Invoke-WebRequest https://aka.ms/ONT
+
 Invoke-Expression $($ONTScript.Content)
 
 
