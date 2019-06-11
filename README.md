@@ -9,9 +9,13 @@ The tests for custom domains is always performed against autodiscover.<domain.co
 Created by Ricardo Pacheco (ricardo.pacheco@microsoft.com) - This script is provided as is and it is not guaranteed to work 100% of the time. Please review all the code before running it to avoid any code execution that you are note confortable. 
 
 
-Issues Found
+
+
+                                                            Issues Found
+                                                            
 
 Issue 1
+
 ![Issue 1](https://raw.githubusercontent.com/mektospacheco/ONT/master/Images/image.png)
 
 
