@@ -10,4 +10,9 @@ Created by Ricardo Pacheco (ricardo.pacheco@microsoft.com) - This script is prov
 
 
 Issues Found
+
+Issue 1
 ![Issue 1](https://raw.githubusercontent.com/mektospacheco/ONT/master/Images/image.png)
+
+
+If you find the following error message, you can work around it by downloading the file directly from GitHub and executing the file.
