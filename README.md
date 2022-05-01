@@ -12,7 +12,7 @@ The script can be easily accessed / run by running the following powershell cmdl
 
 $ONTScript = Invoke-WebRequest https://aka.ms/ONT
 
-Invoke-Expression $($ONTScript.Content)
+Invoke-Expression ($ONTScript.Content)
 
 
                                                           Issues Found
