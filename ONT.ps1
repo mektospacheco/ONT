@@ -94,6 +94,9 @@
   Write-Host " "
     Write-Host "Downloading PSPing" -ForegroundColor Yellow
 
+#Clear pending BitsTransfer Jobs
+Get-BitsTransfer | Remove-BitsTransfer
+
     #Starting BITS Download of PSPING
         Start-BitsTransfer -Source $PSPingurl -Destination $output
 
