@@ -10,7 +10,7 @@ Created by Ricardo Pacheco (ricardo.pacheco@microsoft.com) - This script is prov
 
 The script can be easily accessed / run by running the following powershell cmdlets:
 
-$ONTScript = Invoke-WebRequest https://aka.ms/ONT
+$ONTScript = Invoke-WebRequest https://raw.githubusercontent.com/ricardoMpacheco/ONT/master/ONT.ps1
 
 Invoke-Expression ($ONTScript.Content)
 
